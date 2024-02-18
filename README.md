@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ghalwal
-- 👀 I’m interested in CyberSecurity, Python, Web development
+- 👀 I’m interested in CyberSecurity, Python, And more.
 - 🌱 I’m currently learning Python, Networking 
 - 📫 How to reach me Ghalwal122@outlook.com
 - 😄 Pronouns: She/Her
