@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ghalwal
 - 👀 I’m interested in CyberSecurity, Python, And more.
 - 🌱 I’m currently learning Python.
-- 📫 How to reach me Ghalwal122@outlook.com.
 - 😄 Pronouns: She/Her.
 
 <!---
