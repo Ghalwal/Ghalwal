@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ghalwal
+- 👋 Hi, I’m @Ghalia
 - 👀 I’m interested in CyberSecurity, Python, And more.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently doing CTFS.
 - 😄 Pronouns: She/Her.
 
 <!---
